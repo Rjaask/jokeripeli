@@ -1,0 +1,10 @@
+a{
+    border: solid 1px black;
+    border-radius: 25px;
+    background-color: wheat;
+    padding: 4px;
+}
+
+table{
+    border-spacing: 10px;
+}
